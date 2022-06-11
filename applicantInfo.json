@@ -1,0 +1,291 @@
+[
+  {
+    "type": "button",
+    "localName": "button",
+    "nodeName": "BUTTON",
+    "id": "",
+    "name": "",
+    "labels": [],
+    "textContent": " UPLOAD YOUR PASSPORT"
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "applicantLastName",
+    "name": "applicantLastName",
+    "labels": [
+      "Family Name"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "applicantFirstName",
+    "name": "applicantFirstName",
+    "labels": [
+      "First (Given) Name"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "gender",
+    "name": "gender",
+    "labels": [
+      "Gender"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "day_birthday",
+    "name": "day",
+    "labels": [
+      "Day"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "month_birthday",
+    "name": "month",
+    "labels": [
+      "Month"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "year_birthday",
+    "name": "year",
+    "labels": [
+      "Year"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "birthCity",
+    "name": "birthCity",
+    "labels": [
+      "City of Birth"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "birthCountry",
+    "name": "birthCountry",
+    "labels": [
+      "Country of Birth"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "passportNum",
+    "name": "passportNum",
+    "labels": [
+      "Passport Number"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "citizenshipCountry",
+    "name": "citizenshipCountry",
+    "labels": [
+      "Country of Citizenship"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "natIdNum",
+    "name": "natIdNum",
+    "labels": [],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "day_issueDate",
+    "name": "day",
+    "labels": [
+      "Day"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "month_issueDate",
+    "name": "month",
+    "labels": [
+      "Month"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "year_issueDate",
+    "name": "year",
+    "labels": [
+      "Year"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "issueCountry",
+    "name": "issueCountry",
+    "labels": [
+      "Issuing Country"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "personalIdNum",
+    "name": "personalIdNum",
+    "labels": [
+      "Personal Identification Number"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "day_expDate",
+    "name": "day",
+    "labels": [
+      "Day"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "month_expDate",
+    "name": "month",
+    "labels": [
+      "Month"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "year_expDate",
+    "name": "year",
+    "labels": [
+      "Year"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "currentCitizenshipSwitch",
+    "name": "currentCitizenshipSwitch",
+    "labels": [
+      "Are you now, a citizen or national of any other country?",
+      "--Please Select",
+      "--Please Select"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "select-one",
+    "localName": "select",
+    "nodeName": "SELECT",
+    "id": "pastCitizenshipSwitch",
+    "name": "pastCitizenshipSwitch",
+    "labels": [
+      "Have you ever been a citizen or national of any other country?"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "contactEmail",
+    "name": "contactEmail",
+    "labels": [
+      "E-mail Address"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "text",
+    "localName": "input",
+    "nodeName": "INPUT",
+    "id": "contactEmailConfirm",
+    "name": "contactEmailConfirm",
+    "labels": [
+      "Confirm E-mail Address"
+    ],
+    "textContent": null
+  },
+  {
+    "type": "button",
+    "localName": "button",
+    "nodeName": "BUTTON",
+    "id": "",
+    "name": "",
+    "labels": [],
+    "textContent": "  SAVE AND EXIT"
+  },
+  {
+    "type": "button",
+    "localName": "button",
+    "nodeName": "BUTTON",
+    "id": "",
+    "name": "",
+    "labels": [],
+    "textContent": "PREVIOUS"
+  },
+  {
+    "type": "button",
+    "localName": "button",
+    "nodeName": "BUTTON",
+    "id": "",
+    "name": "",
+    "labels": [],
+    "textContent": "NEXT"
+  }
+]

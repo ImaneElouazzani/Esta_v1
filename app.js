@@ -10,6 +10,7 @@ fetch('https://data.mongodb-api.com/app/data-kgesl/endpoint/data/beta/action/fin
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Request-Headers': '*',
+    'Access-Control-Allow-Origin': '*',
     'api-key': 'WYO6EiR1f61nCvSEHbM77byGHjYNuKIeTvlsDxYXsAjkTNWQxZlyvf1YdAH0TgaI'
   },
   body: JSON.stringify(data),
